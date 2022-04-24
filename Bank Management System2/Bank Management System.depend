@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593183076 source:c:\users\allawy\desktop\bank management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
