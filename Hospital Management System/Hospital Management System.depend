@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591939746 source:c:\users\allawy\desktop\hospital management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
